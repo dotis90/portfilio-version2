@@ -1,16 +1,31 @@
 import React from "react";
-import "../Hero/hero.css";
+import { projectRepo } from "../../config";
+import "./footer.css";
 
 const Footer = () => {
   return (
-    <footer
-      className="bgstyle"
-      style={{
-        // background: `skyblue`,
-        padding: "5%",
-        marginBottom: `0`,
-      }}
-    ></footer>
+    <footer>
+      <i className="fas fa-code"></i> by{" "}
+      <a
+        className="badge badge-dark"
+        rel="noopener"
+        href="https://github.com/dotis90"
+        aria-label="My GitHub"
+      >
+        Daniel Otis
+      </a>{" "}
+      using <i className="fab fa-react"></i>
+      <div>
+        <a
+          target="_blank"
+          rel="noopener noreferrer"
+          className="cta-btn text-color-main footerbtn"
+          href={projectRepo || "#!"}
+        >
+          See Source Code
+        </a>
+      </div>
+    </footer>
   );
 };
 

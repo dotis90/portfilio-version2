@@ -41,7 +41,7 @@ const skills = [
     title: "Full Stack Development",
     image: "skillImage.svg",
     descriptions: [
-      "✔️ Build highly attractive user interfaces for mobile and web applications",
+      "✔️ Build modern and attractive user interfaces for mobile and web applications",
       "✔️ Design fast and powerful back-end applications and web servers",
       "✔️ Consistently up to date with the newest and best tools for development",
       "✔️ Experience with cloud platforms-- AWS Cloud Practitioner Certified",
@@ -122,4 +122,58 @@ const skills = [
   },
 ];
 
-export { heroInfo, skills };
+const projects = [
+  {
+    title: "CinemaTracker",
+    info:
+      "A web application made with React, Redux, Express, and data from the Movie Database API. Create an account, save movies to your favorites list, and the lists of other users.",
+    url: "https://github.com/dotis90",
+    repo: "https://github.com/dotis90",
+    img: "movieapp.png",
+  },
+];
+
+const contact = {
+  heading: "Get In Touch.",
+  message: [
+    "Need a website? Have a question? Want to work together?",
+    "Let’s connect.",
+    "I am actively seeking new opportunities and partnerships.",
+  ],
+  icons: [
+    {
+      id: 0,
+      image: "fa-github",
+      url: "https://github.com/dotis90",
+      style: "socialicons",
+    },
+    {
+      id: 1,
+      image: "fa-facebook",
+      url: "https://www.facebook.com/dan.otis.10420",
+      style: "socialicons",
+    },
+    {
+      id: 2,
+      image: "fa-google",
+      url: "mailto:dotis90@gmail.com",
+      style: "socialicons",
+    },
+    {
+      id: 3,
+      image: "fa-linkedin",
+      url: "https://www.linkedin.com/in/daniel-otis-542043113/",
+      style: "socialicons",
+    },
+    {
+      id: 4,
+      image: "fa-twitter",
+      url: "https://www.twitter.com/Dotis90/",
+      style: "socialicons",
+    },
+  ],
+};
+
+const projectRepo = "https://github.com/dotis90/portfilio-version2";
+
+export { heroInfo, skills, projects, contact, projectRepo };

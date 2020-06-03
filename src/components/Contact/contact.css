@@ -1,0 +1,29 @@
+.contact {
+  font-family: "Montserrat", sans-serif;
+  text-align: center;
+  margin: 5rem 10rem;
+}
+
+.contact-title {
+  font-size: 60px;
+}
+
+.contact-message {
+  margin-top: 2em;
+  font-size: 20px;
+}
+
+@media (max-width: 768px) {
+  .contact {
+    margin: 5em 2em;
+  }
+}
+
+.contact-img {
+  color: #1b6ca8;
+  padding: 10px;
+}
+
+.contact-img:hover {
+  color: #0a97b0;
+}

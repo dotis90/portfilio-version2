@@ -1,0 +1,18 @@
+footer {
+  text-align: center;
+  font-size: 1.5rem;
+  color: white;
+  background-color: #0a97b0;
+  padding: 3%;
+  margin-bottom: 0;
+}
+
+.footerbtn {
+  color: white;
+  margin-top: 20px;
+}
+
+.footerbtn:hover {
+  background-color: white;
+  color: #0a97b0;
+}
