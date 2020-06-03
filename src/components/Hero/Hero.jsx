@@ -5,7 +5,6 @@ import { heroInfo } from "../../config";
 const { firstName, lastName, devDesc, icons } = heroInfo;
 
 const Hero = () => {
-  // const [backgroundType, setBackgroundType] = useState(Configs.backgroundType);
   const [hoverstatus, setHoverstatus] = useState(
     new Array(icons.length).fill("socialicons")
   );
