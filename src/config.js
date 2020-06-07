@@ -124,9 +124,17 @@ const skills = [
 
 const projects = [
   {
+    title: "Personal Blog",
+    info:
+      "Made with Gatsby.js and styled with Sass. Create new articles with ease using Markdown. Features incredibly fast client-side dynamic page rendering.",
+    url: "https://github.com/dotis90",
+    repo: "https://github.com/dotis90",
+    img: "movieapp.png",
+  },
+  {
     title: "CinemaTracker",
     info:
-      "A web application made with React, Redux, Express, and data from the Movie Database API. Create an account, save movies to your favorites list, and the lists of other users.",
+      "A web application made with React, Redux, Express, and MongoDB. Uses data retrieved from the Movie Database API. Create an account, browse popular movies, and save a list of your favorites.",
     url: "https://github.com/dotis90",
     repo: "https://github.com/dotis90",
     img: "movieapp.png",
@@ -137,7 +145,7 @@ const contact = {
   heading: "Get In Touch.",
   message: [
     "Need a website? Have a question? Want to work together?",
-    "Let’s connect.",
+    " Let’s connect. ",
     "I am actively seeking new opportunities and partnerships.",
   ],
   icons: [

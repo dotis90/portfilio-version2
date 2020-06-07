@@ -2,6 +2,7 @@ import React, { useState } from "react";
 import Typist from "react-typist";
 import "./hero.css";
 import { heroInfo } from "../../config";
+import { Link } from 'react-scroll'
 const { firstName, lastName, devDesc, icons } = heroInfo;
 
 const Hero = () => {
@@ -48,14 +49,16 @@ const Hero = () => {
               </a>
             ))}
           </div>
-          <a
+          <Link
             className="btn btn-outline-light btn-lg"
-            href="#aboutme"
+            to="skills"
             role="button"
             aria-label="Learn more about me"
+            smooth={true}
+            duration={1000}
           >
             More about me
-          </a>
+          </Link>
         </div>
       </div>
     </div>

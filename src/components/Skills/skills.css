@@ -12,7 +12,7 @@
   line-height: 1.1;
   font-family: "Montserrat", sans-serif;
   text-align: center;
-  margin-top: 10%;
+  margin-top: 7%;
 }
 
 .skills-text {
@@ -39,6 +39,7 @@
   font-size: 56px;
   font-weight: 400;
   font-family: "Montserrat", sans-serif;
+  margin-top: 5%;
 }
 
 /* Media Query */
