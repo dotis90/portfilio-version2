@@ -127,17 +127,17 @@ const projects = [
     title: "Personal Blog",
     info:
       "Made with Gatsby.js and styled with Sass. Create new articles with ease using Markdown. Features incredibly fast client-side dynamic page rendering.",
-    url: "https://github.com/dotis90",
-    repo: "https://github.com/dotis90",
-    img: "movieapp.png",
+    url: "https://nifty-panini-992868.netlify.app/",
+    repo: "https://github.com/dotis90/gatbsy-blog",
+    img: "blog.png",
   },
   {
     title: "CinemaTracker",
     info:
       "A web application made with React, Redux, Express, and MongoDB. Uses data retrieved from the Movie Database API. Create an account, browse popular movies, and save a list of your favorites.",
-    url: "https://github.com/dotis90",
-    repo: "https://github.com/dotis90",
-    img: "movieapp.png",
+    url: "https://cinematrackerapp.herokuapp.com/",
+    repo: "https://github.com/dotis90/cinema-tracker",
+    img: "cinematracker.png",
   },
 ];
 
