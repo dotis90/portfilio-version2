@@ -1,29 +1,30 @@
 {
   "files": {
-    "main.css": "./static/css/main.d932271b.chunk.css",
-    "main.js": "./static/js/main.6d8e82cf.chunk.js",
-    "main.js.map": "./static/js/main.6d8e82cf.chunk.js.map",
+    "main.css": "./static/css/main.e5b43fe9.chunk.css",
+    "main.js": "./static/js/main.2c43cca3.chunk.js",
+    "main.js.map": "./static/js/main.2c43cca3.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.7b45feda.js",
     "runtime-main.js.map": "./static/js/runtime-main.7b45feda.js.map",
     "static/css/2.af3c1da9.chunk.css": "./static/css/2.af3c1da9.chunk.css",
-    "static/js/2.9493de4d.chunk.js": "./static/js/2.9493de4d.chunk.js",
-    "static/js/2.9493de4d.chunk.js.map": "./static/js/2.9493de4d.chunk.js.map",
+    "static/js/2.9cc2e297.chunk.js": "./static/js/2.9cc2e297.chunk.js",
+    "static/js/2.9cc2e297.chunk.js.map": "./static/js/2.9cc2e297.chunk.js.map",
     "index.html": "./index.html",
-    "precache-manifest.ef040489c111baf2117aabc28bb6f4ba.js": "./precache-manifest.ef040489c111baf2117aabc28bb6f4ba.js",
+    "precache-manifest.6bea7ffe29c3d66619c5ad6b847e0f5f.js": "./precache-manifest.6bea7ffe29c3d66619c5ad6b847e0f5f.js",
     "service-worker.js": "./service-worker.js",
     "static/css/2.af3c1da9.chunk.css.map": "./static/css/2.af3c1da9.chunk.css.map",
-    "static/css/main.d932271b.chunk.css.map": "./static/css/main.d932271b.chunk.css.map",
-    "static/js/2.9493de4d.chunk.js.LICENSE.txt": "./static/js/2.9493de4d.chunk.js.LICENSE.txt",
+    "static/css/main.e5b43fe9.chunk.css.map": "./static/css/main.e5b43fe9.chunk.css.map",
+    "static/js/2.9cc2e297.chunk.js.LICENSE.txt": "./static/js/2.9cc2e297.chunk.js.LICENSE.txt",
     "static/media/blog.png": "./static/media/blog.541559a5.png",
     "static/media/cinematracker.png": "./static/media/cinematracker.b183d800.png",
-    "static/media/movieapp.png": "./static/media/movieapp.6f87591b.png",
-    "static/media/skillImage.svg": "./static/media/skillImage.59389695.svg"
+    "static/media/covidapp.png": "./static/media/covidapp.797844aa.png",
+    "static/media/skillImage.svg": "./static/media/skillImage.59389695.svg",
+    "static/media/snakegame.png": "./static/media/snakegame.90d317b2.png"
   },
   "entrypoints": [
     "static/js/runtime-main.7b45feda.js",
     "static/css/2.af3c1da9.chunk.css",
-    "static/js/2.9493de4d.chunk.js",
-    "static/css/main.d932271b.chunk.css",
-    "static/js/main.6d8e82cf.chunk.js"
+    "static/js/2.9cc2e297.chunk.js",
+    "static/css/main.e5b43fe9.chunk.css",
+    "static/js/main.2c43cca3.chunk.js"
   ]
 }
